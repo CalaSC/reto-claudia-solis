@@ -3,7 +3,7 @@ output_dir: docs
 navbar:
   title: "My Website"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Firebase"
+      href: firebase.html
+    - text: "Shiny"
+      href: shiny.html
